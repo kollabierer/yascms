@@ -1,2 +1,2 @@
 # yascms
-yet another smart content management system
+yet another smart content management system 2.0
